@@ -1,1 +1,5 @@
 /database.db
+__pycache__/app.cpython-39.pyc
+.idea/*
+
+.idea/dbnavigator.xml
